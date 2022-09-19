@@ -12,9 +12,10 @@ Skippy game is a simple game of skipping obstacles. After starting the game, obs
 - see the status of the game when it ends
 - see a status message when the game ends
 - see a status message when I collide with obstacle
+- play, pause and end the game by clicking a button
 - reset the game after it ends
 
 ## Wireframes / Screenshots
-
+![GA Cog](https://i.imgur.com/LACLp7T.png)
 
 ## Entity Relationship Diagrams
