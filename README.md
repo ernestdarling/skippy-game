@@ -16,6 +16,10 @@ Skippy game is a simple game of skipping obstacles. After starting the game, obs
 - reset the game after it ends
 
 ## Wireframes / Screenshots
-![GA Cog](https://i.imgur.com/LACLp7T.png)
+
+![Wireframe_1](https://i.imgur.com/LACLp7T.png)
+
+![Wireframe_2](https://i.imgur.com/DIXIiB3.png)
+
 
 ## Entity Relationship Diagrams
