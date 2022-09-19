@@ -22,4 +22,7 @@ Skippy game is a simple game of skipping obstacles. After starting the game, obs
 ![Wireframe_2](https://i.imgur.com/DIXIiB3.png)
 
 
-## Entity Relationship Diagrams
+## Plan
+- I plan to use html canvas to build the game.
+- For obstacles, I will use a class to create a new obstacle with a randomizer for when they appear. I will use setInterval to space out obstacles and also the speed at which they move in and out of frame
+- I will use setTimeOut to countdown the game until a win or lose condition is met
