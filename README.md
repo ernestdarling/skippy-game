@@ -1,2 +1,2 @@
-# skippy-game
+# Skippy Game
 A game of skipping obstacles
