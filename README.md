@@ -23,6 +23,10 @@ Skippy game is a simple game of skipping obstacles. After starting the game, obs
 
 
 ## Plan
-- I plan to use html canvas to build the game.
-- For obstacles, I will use a class to create a new obstacle with a randomizer for when they appear. I will use setInterval to space out obstacles and also the speed at which they move in and out of frame
-- I will use setTimeOut to countdown the game until a win or lose condition is met
+- Day 1: Start with pseudo code for the project and plan in detail how to accomplish the project objectives
+
+- Day 2: Build initial HTML/CSS elements of the project
+
+- Day 3-4: Start building JS code for project
+
+- Day 5: Testing
